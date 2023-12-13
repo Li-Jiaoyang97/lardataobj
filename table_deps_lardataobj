@@ -1,0 +1,3 @@
+setupRequired(larcorealg v09_06_05 -q +e20:+prof)
+setupRequired(larcoreobj v09_05_02 -q +e20:+prof)
+setupRequired(nusimdata v1_25_02 -q +e20:+prof)

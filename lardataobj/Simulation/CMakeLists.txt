@@ -18,6 +18,7 @@ cet_make_library(SOURCE
   SimChannel.cxx
   SimPhotons.cxx
   SupernovaTruth.cxx
+  ParticleAncestryMap.cxx
   LIBRARIES
   PUBLIC
   larcoreobj::geo_vectors
