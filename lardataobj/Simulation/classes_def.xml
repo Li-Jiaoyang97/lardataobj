@@ -119,6 +119,12 @@
  <class name="art::Wrapper< art::Assns<sim::SupernovaTruth, simb::MCTruth, void>>"/>
  <class name="art::Wrapper< art::Assns<simb::MCTruth, sim::SupernovaTruth, void>>"/>
 
+ <class name="std::map<int, std::set<int>>"/>
+ <class name="std::pair<int, std::set<int>>"/>
+ <class name="sim::ParticleAncestryMap"/>
+ <class name="art::Wrapper<sim::ParticleAncestryMap>"/>
+ <class name="std::vector<sim::ParticleAncestryMap>"/>
+ <class name="art::Wrapper<std::vector<sim::ParticleAncestryMap>>"/>
 <!-- <class name="ROOT::Math::Cartesian3D<float>"/> -->
 <!-- <class name="ROOT::Math::PositionVector3D<ROOT::Math::Cartesian3D<float>,ROOT::Math::DefaultCoordinateSystemTag>"/> -->
 
